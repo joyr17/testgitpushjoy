@@ -7,6 +7,7 @@ print(obj3.yob1)
 print(obj3._name1)
 print(obj3._person1__surname1)
 
+# adding comments to check if the git commit and push is working fine or not #
 
 class person :
 
